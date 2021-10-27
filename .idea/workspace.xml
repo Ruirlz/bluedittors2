@@ -19,12 +19,15 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bluedit/admin/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bluedit/static/js" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\ICT3101_deploy\bluedittors2\Bluedit\admin\templates" />
-      <recent name="E:\ICT3101_deploy\bluedittors2\Bluedit\static\profile_image\default" />
+      <recent name="E:\ICT3101_deploy\bluedittors2\Bluedit\static\js" />
+      <recent name="E:\ICT3101_deploy\bluedittors2\Bluedit\static\images" />
+      <recent name="E:\ICT3101_deploy\bluedittors2\Bluedit\static\favicon" />
+      <recent name="E:\ICT3101_deploy\bluedittors2\Bluedit\static\css" />
+      <recent name="E:\ICT3101_deploy\bluedittors2\Bluedit\share" />
     </key>
   </component>
   <component name="TaskManager">
